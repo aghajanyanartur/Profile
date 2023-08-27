@@ -1,14 +1,6 @@
-## Hello, I'm Artur 👋
+## Hello, I'm Artur 👋 [![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=spring&theme=light)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=maven&theme=light)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=gradle&theme=light)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=postgresql&theme=light)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=hibernate&theme=light)](https://skills.thijs.gg)
 ### I am a junior developer with a strong passion for coding, problem-solving, and creating innovative software solutions. I'm enthusiastic about continually learning and growing as a developer. Check out my repositories to see what projects I have done.
 
-<br>
-<br>
-
-***You can reach me out:🤝***
-- **📞 Phone:** +374 33 509598 (WhatsApp)
-- **📧 Email:** aghajanyan.aa1@gmail.com
-- **&nbsp;<img src="https://github.com/aghajanyanartur/Profile/assets/111218857/4e40188e-7037-4267-96f8-ab77994be7bd" alt="LinkedIn Logo" width="15">&ensp;LinkedIn:** [linkedin.com/in/aghajanyanartur](https://www.linkedin.com/in/aghajanyanartur)
-- **&nbsp;<img src="https://github.com/aghajanyanartur/Profile/assets/111218857/a0930c62-1bad-4f79-864a-78e59e1b6bf3" alt="Skype Logo" width="15">&ensp;Skype:** live:.cid.bd6be09316c329cb
 
 <br>
 <br>
@@ -30,3 +22,11 @@ When it comes to databases:&ensp;![Static Badge](https://img.shields.io/badge/SQ
 ![Static Badge](https://img.shields.io/badge/Hibernate-blue?style=plastic&logo=Hibernate)
 ![Static Badge](https://img.shields.io/badge/Spring%20Data-darkgreen?style=plastic&logo=Spring&logoColor=white)
 
+<br>
+<br>
+
+***You can reach me out:🤝***
+- **📞 Phone:** +374 33 509598 (WhatsApp)
+- **📧 Email:** aghajanyan.aa1@gmail.com
+- **&nbsp;<img src="https://github.com/aghajanyanartur/Profile/assets/111218857/4e40188e-7037-4267-96f8-ab77994be7bd" alt="LinkedIn Logo" width="15">&ensp;LinkedIn:** [linkedin.com/in/aghajanyanartur](https://www.linkedin.com/in/aghajanyanartur)
+- **&nbsp;<img src="https://github.com/aghajanyanartur/Profile/assets/111218857/a0930c62-1bad-4f79-864a-78e59e1b6bf3" alt="Skype Logo" width="15">&ensp;Skype:** live:.cid.bd6be09316c329cb
