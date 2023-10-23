@@ -26,7 +26,7 @@ When it comes to databases:&ensp;![Static Badge](https://img.shields.io/badge/SQ
 <br>
 
 ***You can reach me out:🤝***
-- **📞 Phone:** +374 33 509598 (WhatsApp)
+- **📞 Phone:** +1 (267) 304-9445
 - **📧 Email:** aghajanyan.aa1@gmail.com
 - **&nbsp;<img src="https://github.com/aghajanyanartur/Profile/assets/111218857/4e40188e-7037-4267-96f8-ab77994be7bd" alt="LinkedIn Logo" width="15">&ensp;LinkedIn:** [linkedin.com/in/aghajanyanartur](https://www.linkedin.com/in/aghajanyanartur)
 - **&nbsp;<img src="https://github.com/aghajanyanartur/Profile/assets/111218857/a0930c62-1bad-4f79-864a-78e59e1b6bf3" alt="Skype Logo" width="15">&ensp;Skype:** live:.cid.bd6be09316c329cb
