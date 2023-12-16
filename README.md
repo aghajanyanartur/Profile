@@ -22,6 +22,10 @@ When it comes to databases:&ensp;![Static Badge](https://img.shields.io/badge/SQ
 ![Static Badge](https://img.shields.io/badge/Hibernate-blue?style=plastic&logo=Hibernate)
 ![Static Badge](https://img.shields.io/badge/Spring%20Data-darkgreen?style=plastic&logo=Spring&logoColor=white)
 
+Frontend technologies:&ensp;![Static Badge](https://img.shields.io/badge/ReactJS-blue?style=plastic&logo=React)
+![Static Badge](https://img.shields.io/badge/HTML/CSS-orange?style=plastic&logo=html)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-darkblue?style=plastic&logo=Tailwind)
+
 <br>
 <br>
 
